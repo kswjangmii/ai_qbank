@@ -1,0 +1,496 @@
+[
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 1,
+    "question_text": "그림을 보고 $ \\frac{6}{7} \\div \\frac{3}{7} $의 몫을 구해 보시오.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "image_path": "/assets/images/math_6_2_q1.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 2,
+    "question_text": "관계있는 것끼리 이어 보세요.",
+    "options": [
+      "$\\frac{6}{11} \\div \\frac{5}{11}$",
+      "$6 \\div 5$",
+      "$4 \\frac{1}{2}$",
+      "$\\frac{3}{5} \\div \\frac{4}{5}$",
+      "$9 \\div 2$",
+      "$1 \\frac{1}{5}$",
+      "$\\frac{9}{13} \\div \\frac{2}{13}$",
+      "$3 \\div 4$",
+      "$\\frac{3}{4}$"
+    ],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 3,
+    "question_text": "안에 알맞은 수를 써넣으세요. $ 9 \\div \\frac{3}{5} = (9 \\div \\Box) \\times \\Box = \\Box $",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 4,
+    "question_text": "$ \\frac{4}{5} \\div \\frac{3}{5} $과 계산 결과가 같은 것을 찾아 기호를 써 보세요.",
+    "options": [
+      "\\text{ㄱ } 4 \\div 5",
+      "\\text{ㄴ } 3 \\div 4",
+      "\\text{ㄷ } 4 \\div 3"
+    ],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 5,
+    "question_text": "계산해 보세요.\n(1) $ \\frac{6}{7} \\div \\frac{2}{7} $\n(2) $ 1 \\frac{4}{5} \\div \\frac{3}{10} $",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ㉰형 1. 분수의 나눗셈",
+    "question_number": 6,
+    "question_text": "계산 결과가 자연수인 것에 $\\text{O}$표 하세요.\n$\\frac{6}{7} \\div \\frac{2}{7}$\n$\\frac{5}{11} \\div \\frac{3}{11}$",
+    "options": [],
+    "answer": "",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ㉰형 1. 분수의 나눗셈",
+    "question_number": 7,
+    "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으세요.\n$\\frac{5}{8}$에는 $\\frac{1}{8}$이 $\\square$번 들어갑니다.\n$\\rightarrow \\frac{5}{8} \\div \\frac{1}{8} = \\square$",
+    "options": [],
+    "answer": "",
+    "explanation": null,
+    "image_path": "/assets/images/math_6_2_q7.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ㉰형 1. 분수의 나눗셈",
+    "question_number": 8,
+    "question_text": "그림을 보고 $\\square$ 안에 알맞은 수를 써넣으세요.\n$\\frac{2}{5}$에는 $\\frac{1}{5}$이 $\\square$번 들어갑니다.",
+    "options": [],
+    "answer": "",
+    "explanation": null,
+    "image_path": "/assets/images/math_6_2_q8.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ㉰형 1. 분수의 나눗셈",
+    "question_number": 9,
+    "question_text": "바르게 계산한 것의 기호를 찾아 써 보세요.",
+    "options": [
+      "① $\\frac{7}{10} \\div \\frac{4}{10} = \\frac{7}{4}$",
+      "② $\\frac{10}{11} \\div \\frac{3}{11} = 3\\frac{1}{3}$"
+    ],
+    "answer": "",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ㉰형 1. 분수의 나눗셈",
+    "question_number": 10,
+    "question_text": "$\\bullet$보기$\\bullet$와 같이 계산해 보세요.\n$\\bullet$보기$\\bullet$\n$32 \\div \\frac{8}{13} = (32 \\div 8) \\times 13 = 52$\n$15 \\div \\frac{5}{6} = $",
+    "options": [],
+    "answer": "",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 11,
+    "question_text": "마름모의 넓이가 다음과 같을 때 $\\square$ 안에 알맞은 수를 구해 보세요.\n한 대각선의 길이는 $\\frac{5}{7}$m 이고 넓이는 $\\frac{1}{3}$m$^2$ 입니다. 다른 대각선의 길이는 $\\square$m입니다.",
+    "options": [],
+    "answer": "\\frac{14}{15}",
+    "explanation": null,
+    "image_path": "/assets/images/math_6_2_q11.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 12,
+    "question_text": "호박의 무게는 오이의 무게의 몇 배일까요?",
+    "options": [],
+    "answer": "\\frac{24}{5}배",
+    "explanation": null,
+    "image_path": "/assets/images/math_6_2_q12.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 13,
+    "question_text": "관계있는 것끼리 이어 보세요.\n$15 \\div \\frac{5}{8}$\n$14 \\div \\frac{7}{10}$\n\n20\n24",
+    "options": [],
+    "answer": "$15 \\div \\frac{5}{8}$ = 24, $14 \\div \\frac{7}{10}$ = 20",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 14,
+    "question_text": "다음 나눗셈에서 $\\frac{\\triangle}{13}$는 진분수이고 몫은 자연수입니다. $\\triangle$에 알맞은 수는 모두 몇 개일까요?",
+    "options": [],
+    "answer": "4개",
+    "explanation": null,
+    "image_path": "/assets/images/math_6_2_q14.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 15,
+    "question_text": "빈 곳에 알맞은 수를 써넣으세요.",
+    "options": [],
+    "answer": "10, 35",
+    "explanation": null,
+    "image_path": "/assets/images/math_6_2_q15.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 16,
+    "question_text": "①에 알맞은 수를 구해 보세요.",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": "/assets/images/math_6_2_q16.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 17,
+    "question_text": "솔림이는 색 테이프 $27 \\text{m}$ 중에서 $15 \\text{m}$를 친구에게 주었습니다. 주고 남은 색 테이프를 $\\frac{6}{11} \\text{m}$씩 모두 잘랐다면 잘린 색 테이프는 몇 토막일까요?",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 18,
+    "question_text": "수빈이가 $3\\frac{1}{5} \\text{km}$를 걸어가는 데 $\\frac{2}{3}$시간이 걸렸습니다. 수빈이는 한 시간에 몇 $\\text{km}$를 걸어간 셈일까요?",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 19,
+    "question_text": "길이가 $\\frac{13}{4} \\text{m}$인 리본을 $\\frac{1}{3} \\text{m}$씩 잘라 장식을 만들려고 합니다. 장식은 최대 몇 개까지 만들 수 있을까요?",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 20,
+    "question_text": "가분수를 진분수로 나눈 몫을 구해 보세요.",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": "/assets/images/math_6_2_q20.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ②-기형",
+    "question_number": 21,
+    "question_text": "길이가 $6\\text{m}$인 색 테이프가 있습니다. 이 색 테이프를 한 사람에게 $\\frac{2}{5}\\text{m}$씩 나누어 준다면 몇 명까지 나누어 줄 수 있을까요?",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ②-기형",
+    "question_number": 22,
+    "question_text": "현아네 반 학생의 $\\frac{4}{9}$가 남학생입니다. 여학생이 $15$명일 때 현아네 반 학생은 모두 몇 명일까요?",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ②-기형",
+    "question_number": 23,
+    "question_text": "계산해 보세요.",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ②-기형",
+    "question_number": 24,
+    "question_text": "아린이는 리본 $2\\frac{1}{10}\\text{m}$를 가지고 선물을 포장하고 있습니다. 선물 한 개를 포장하는 데 리본 $\\frac{3}{5}\\text{m}$가 필요하다면 선물을 몇 개까지 포장할 수 있고, 이때 남는 리본의 길이는 몇 $\\text{m}$일까요?",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ②-기형",
+    "question_number": 25,
+    "question_text": "어떤 수를 $1\\frac{1}{2}$로 나누어야 할 것을 잘 못하여 곱했더니 $\\frac{4}{7}$가 되었습니다. 바르게 계산한 몫을 기약분수로 나타내어 보세요.",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 1,
+    "question_text": "분자끼리 나누어떨어지는 분모가 같은 (분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "2",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 2,
+    "question_text": "분자끼리 나누어떨어지지 않는 분모가 같은 (분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "아래 참조",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 3,
+    "question_text": "(자연수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "3, 5, 15",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 4,
+    "question_text": "분자끼리 나누어떨어지지 않는 분모가 같은 (분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "ㄷ",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 5,
+    "question_text": "분자끼리 나누어떨어지는 분모가 같은 (분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "(1) 3 (2) 6",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 6,
+    "question_text": "분자끼리 나누어떨어지는 분모가 같은 (분수) $\\div$ (분수) 알아보기\n분자끼리 나누어떨어지지 않는 분모가 같은 (분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "( $\\circ$ ) (",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 7,
+    "question_text": "분자끼리 나누어떨어지는 분모가 같은 (분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "5, 5",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 8,
+    "question_text": "분자끼리 나누어떨어지는 분모가 같은 (분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "2, 2",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 9,
+    "question_text": "분자끼리 나누어떨어지지 않는 분모가 같은 (분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "ㄹ",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 10,
+    "question_text": "(자연수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "아래 참조",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 11,
+    "question_text": "분모가 다른 (분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "$\\frac{14}{15}$",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 12,
+    "question_text": "(분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "$4\\frac{4}{5}$ (= $\\frac{24}{5}$)배",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 13,
+    "question_text": "(자연수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "두 개의 점을 교차하여 연결한 선 그림",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 14,
+    "question_text": "(자연수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "4개",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 15,
+    "question_text": "(분수) $\\div$ (분수) 알아보기\n(자연수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "10, 35",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 16,
+    "question_text": "(분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "$1\\frac{4}{5}$ (= $\\frac{9}{5}$)",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 17,
+    "question_text": "(자연수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "22토막",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 18,
+    "question_text": "(분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "아래 참조",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 19,
+    "question_text": "(분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "9개",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 20,
+    "question_text": "(분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "$8\\frac{2}{5}$ (= $\\frac{42}{5}$)",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원평가",
+    "question_number": 21,
+    "question_text": "(자연수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "$6 \\div \\frac{2}{5} = 15$, 15명",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ⑦기형 1. 분수의 나눗셈",
+    "question_number": 22,
+    "question_text": "(자연수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "27명",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ⑦기형 1. 분수의 나눗셈",
+    "question_number": 23,
+    "question_text": "(분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "$3\\frac{5}{9} (= \\frac{32}{9})$",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ⑦기형 1. 분수의 나눗셈",
+    "question_number": 24,
+    "question_text": "(분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "$3$개, $\\frac{3}{10}$m",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ⑦기형 1. 분수의 나눗셈",
+    "question_number": 25,
+    "question_text": "(분수) $\\div$ (분수) 알아보기",
+    "options": [],
+    "answer": "$\\frac{16}{63}$",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ⑦기형 1. 분수의 나눗셈",
+    "question_number": 2,
+    "question_text": "다음 그림과 같이 주어진 원소들을 짝지어 연결하시오.",
+    "options": [],
+    "answer": "그림에 제시된 바와 같이 첫 번째 열의 위, 중간, 아래 원소와 두 번째 열의 아래, 위, 중간 원소가 각각 연결됩니다.",
+    "explanation": null,
+    "image_path": "/assets/images/math_6_2_q2.png"
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ⑦기형 1. 분수의 나눗셈",
+    "question_number": 26,
+    "question_text": "다음 등식이 성립하는지 확인하고, 옳지 않으면 바르게 고쳐 계산하시오: $10 (15 \\div 5) \\times 6 = 18$",
+    "options": [],
+    "answer": "주어진 등식은 성립하지 않습니다. 올바른 계산은 $10 \\times (15 \\div 5) \\times 6 = 10 \\times 3 \\times 6 = 30 \\times 6 = 180$ 입니다. 따라서 $180 \\neq 18$.",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "exam_category": "수학 6-2 단원 평가 플러스 ⑦기형 1. 분수의 나눗셈",
+    "question_number": 27,
+    "question_text": "다음 나눗셈을 계산하고, 주어진 결과가 맞는지 확인하시오: $18\\frac{1}{5} \\div 3\\frac{2}{3}$. 만약 틀렸다면 올바른 답을 기약분수 형태의 대분수로 나타내고 단위를 km로 붙이시오. 제시된 결과: $4\\frac{4}{5} (= \\frac{24}{5})$ km",
+    "options": [],
+    "answer": "주어진 결과는 틀렸습니다. 올바른 계산은 다음과 같습니다. $18\\frac{1}{5} \\div 3\\frac{2}{3} = \\frac{91}{5} \\div \\frac{11}{3} = \\frac{91}{5} \\times \\frac{3}{11} = \\frac{273}{55}$. 이를 대분수로 나타내면 $4\\frac{53}{55}$입니다. 따라서 올바른 답은 $4\\frac{53}{55}$ km 입니다.",
+    "explanation": null,
+    "image_path": null
+  }
+]
